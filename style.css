@@ -314,15 +314,6 @@ h2 {
   background-color: #eeeeee;
 }
 
-/* .man-pic {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 50%;
-  height: 100px;
-  background-color: #8dc63f;
-} */
-
 .man-pic img {
   width: 150px;
   clip-path: circle(50%);
